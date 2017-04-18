@@ -1,0 +1,35 @@
+﻿Build started 5/23/2013 10:34:42 AM.
+     1>Project "C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\AntColonyOptimization-TSP\AntColonyOptimization-TSP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\AntColonyOptimization-TSP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AntColonyOptimization-TSP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ant.cpp /clr:nostdlib 
+         ant.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\Release\AntColonyOptimization-TSP.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\AntColonyOptimizationTSP.Form1.resources /MANIFEST /ManifestFile:"Release\AntColonyOptimization-TSP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\Release\AntColonyOptimization-TSP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\ant.obj
+         "Release\AntColonyOptimization-TSP.obj"
+         Release\AssemblyInfo.obj
+         Release\city.obj
+         Release\map.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         AntColonyOptimization-TSP.vcxproj -> C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\Release\AntColonyOptimization-TSP.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\Release\AntColonyOptimization-TSP.exe;#1" /manifest "Release\AntColonyOptimization-TSP.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\AntColonyOptimization-TSP.unsuccessfulbuild".
+         Touching "Release\AntColonyOptimization-TSP.lastbuildstate".
+     1>Done Building Project "C:\Users\EMAD\Documents\Visual Studio 2010\Projects\AntColonyOptimization-TSP\AntColonyOptimization-TSP\AntColonyOptimization-TSP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.74

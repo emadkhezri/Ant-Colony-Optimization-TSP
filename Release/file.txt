@@ -1,0 +1,10 @@
+city 1   : x =  12    y = 68
+city 2   : x =  101    y = 174
+city 3   : x =  181    y = 141
+city 4   : x =  9    y = 107
+city 5   : x =  6    y = 127
+city 6   : x =  60    y = 180
+city 7   : x =  118    y = 189
+city 8   : x =  185    y = 159
+city 9   : x =  97    y = 176
+city 10   : x =  84    y = 81
